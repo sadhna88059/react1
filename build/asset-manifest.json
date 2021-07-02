@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/http//sadhna88059.github.io/react11/static/css/main.08bb75a5.chunk.css",
+    "main.js": "/http//sadhna88059.github.io/react11/static/js/main.7add7a6a.chunk.js",
+    "main.js.map": "/http//sadhna88059.github.io/react11/static/js/main.7add7a6a.chunk.js.map",
+    "runtime-main.js": "/http//sadhna88059.github.io/react11/static/js/runtime-main.d92ea166.js",
+    "runtime-main.js.map": "/http//sadhna88059.github.io/react11/static/js/runtime-main.d92ea166.js.map",
+    "static/js/2.7c1408a3.chunk.js": "/http//sadhna88059.github.io/react11/static/js/2.7c1408a3.chunk.js",
+    "static/js/2.7c1408a3.chunk.js.map": "/http//sadhna88059.github.io/react11/static/js/2.7c1408a3.chunk.js.map",
+    "index.html": "/http//sadhna88059.github.io/react11/index.html",
+    "static/css/main.08bb75a5.chunk.css.map": "/http//sadhna88059.github.io/react11/static/css/main.08bb75a5.chunk.css.map",
+    "static/js/2.7c1408a3.chunk.js.LICENSE.txt": "/http//sadhna88059.github.io/react11/static/js/2.7c1408a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d92ea166.js",
+    "static/js/2.7c1408a3.chunk.js",
+    "static/css/main.08bb75a5.chunk.css",
+    "static/js/main.7add7a6a.chunk.js"
+  ]
+}
